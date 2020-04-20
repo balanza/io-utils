@@ -5,6 +5,7 @@
   "scripts": {
     "test": "jest --verbose",
     "build": "tsc",
+    "prestart": "yarn build",
     "start": "node dist/index.js"
   },
   "devDependencies": {
