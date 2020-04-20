@@ -25,7 +25,7 @@
   "jest": {
     "testEnvironment": "node",
     "collectCoverage": false,
-    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
+    "testRegex": "**/*(test|spec))\\.(js?|ts?)$",
     "moduleFileExtensions": [
       "js",
       "json",
