@@ -35,6 +35,6 @@
       "tsx"
     ],
     "preset": "ts-jest",
-    "testMatch": null,
+    "testMatch": null
   }
 }
